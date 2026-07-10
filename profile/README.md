@@ -72,7 +72,7 @@ TickTick App works well for people who need one planner for daily errands, long-
 
 It also fits users comparing todoist vs ticktick. Todoist is a strong task manager, while TickTick App stands out for integrated ticktick calendar, ticktick pomodoro, ticktick habit tracker, and detailed ticktick reminders. Anyone considering ticktick premium should map their real workflow first: basic planning may be enough, while heavy calendar users, collaborators, and routine builders may find the upgrade more useful.
 
-![TickTick App dashboard with task lists, calendar planning, reminders, and focus timer](https://prnt.sc/N07exfEiQg-n)
+![TickTick App dashboard with task lists, calendar planning, reminders, and focus timer](https://d107mjio2rjf74.cloudfront.net/web/static/build/resources/images/card.png)
 
 ## Practical Fixes and Setup Questions
 
